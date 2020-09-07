@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BarLocator.iml" filepath="$PROJECT_DIR$/BarLocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistanceAlgorithm.iml" filepath="$PROJECT_DIR$/DistanceAlgorithm.iml" />
     </modules>
   </component>
 </project>
